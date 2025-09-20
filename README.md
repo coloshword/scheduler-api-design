@@ -16,7 +16,7 @@ The CEO, Jeff Blumba, has several secretaries who are overbooked and have too ma
 2. No two events for the CEO can overlap in time in the schedule.
 3. The algorithm to auto insert based on open time slots in the calendar is already implemented. It's sort of related to this [problem](https://leetcode.com/problems/insert-interval/description/).
 4. The auto event manager service is already implemented. Any requests to this scheduler-api needs to be authenticated to verify that it is the auto event manager service making requests.
-5. Hundreds of events a day can pop up on 
+5. There is high throughput of events attempted to be added to the CEO's calendar everyday (up to a thousand a day). He is very popular.
 
 ### Follow Ups
 1. How might we account for the schedules of multiple attendees?
