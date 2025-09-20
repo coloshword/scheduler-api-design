@@ -7,8 +7,9 @@ The CEO, Jeff Blumba, has several secretaries who are overbooked and have too ma
 1. Service users should be able to poll for existing events and get info about them (name, time, attendees, location, etc.). Time is optional. Date and time overrides the any events inserted automatically.
 2. Service users should be able to check an event's status (i.e. pending, in progress, completed, etc.)
 3. Service users should be able to create events to be auto inserted into open time slots on the calendar.
-4. Service users should be able to update event's (status, date, time, name, attendees, etc.).
-5. Service users should be notified if an event cannot be placed on the CEO's calendar.
+4. Service users should be able to update events (status, date, time, name, attendees, etc.).
+5. Service users should be able to delete and cancel events.
+6. Service users should be notified if an event cannot be placed on the CEO's calendar.
 
 
 ### Assumptions
